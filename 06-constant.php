@@ -1,6 +1,6 @@
 <?php
 
-// imutable
+// imutable -> ga bisa diganti 
 define("AUTHOR", "Dewa Semadi");
 define("APP_VERSION", 100);
 

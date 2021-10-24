@@ -1,5 +1,7 @@
 <?php
-// array di php dinamis, bisa digabung antara int, float, string, dll
+// The var_dump() function is used to dump information about a variable.
+
+// array di php dinamis, bisa digabung antara int, float, string, dll -> kayak tuple di python
 $values = array (1,2,3,4,5,6,7,8,9,8,5,'Cek');
 var_dump($values);
 
@@ -14,4 +16,5 @@ var_dump($names);
 unset($names[3]);
 // menghitung total data dalam array
 count($names); 
+
 ?>

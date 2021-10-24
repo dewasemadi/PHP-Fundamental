@@ -22,5 +22,7 @@ echo <<<'PUTU'
 Multi line ------
 Ini adalah contoh string yang sangat panjang, dan gak perlu 
 ketik ENTER, cara ke-3 membuat string bisa menggunakan "nowdoc"
+
 PUTU;
+
 ?>
